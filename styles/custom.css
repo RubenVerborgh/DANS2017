@@ -5,3 +5,8 @@ p.venue {
   font-style: italic;
   margin: .5em 0 .75em;
 }
+
+.slide h2.shout {
+  font-size: 2em;
+  line-height: 1.5;
+}
