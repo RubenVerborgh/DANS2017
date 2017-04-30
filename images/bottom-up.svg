@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="192.5px" height="165px">
+<style>
+polygon { fill: #443688; }
+text {
+  fill: #222222;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: -.25px;
+  text-anchor: middle;
+}
+text.label {
+  font-weight: normal;
+  font-style: italic;
+}
+</style>
+<polygon opacity="0.2" points="121.12,42.81 96.25,0.2 71.38,42.81"/>
+<polygon opacity="0.4" points="156.81,103.95 131.94,61.34 60.56,61.34 35.69,103.95"/>
+<polygon opacity="0.7" points="167.63,122.48 24.87,122.48 0,165.09 192.5,165.09"/>
+<text x="96" y="148">modular interface features</text>
+<text x="96" y="117" class="label">provide </text>
+<text x="96" y="88">functionality</text>
+<text x="96" y="56" class="label">defining</text>
+<text x="96" y="32">API</text>
+</svg>

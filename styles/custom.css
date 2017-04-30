@@ -10,3 +10,9 @@ p.venue {
   font-size: 2em;
   line-height: 1.5;
 }
+
+figure.pyramid img {
+  margin: 0 auto;
+  display: block;
+  height: 400px;
+}
